@@ -1,4 +1,4 @@
-# Elon-Musk-Twitter-analysis
+# Elon-Musk-Twitter-analysis (April 2022)
 ### Topic modeling and sentiment/emotion analysis of Elon Musk's all time Tweets with an academic paper. LDA, Top2Vec, BERT.
 
 Data collection:

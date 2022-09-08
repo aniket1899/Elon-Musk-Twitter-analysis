@@ -2,7 +2,7 @@
 ### Topic modeling and sentiment/emotion analysis of Elon Musk's all time Tweets with an academic paper. LDA, Top2Vec, BERT.
 
 Data collection:
-> Tweets were scraped using the library: [SNScrape](https://github.com/JustAnotherArchivist/snscrape)
+> Tweets (including replies) were scraped using the library: [SNScrape](https://github.com/JustAnotherArchivist/snscrape)
 
 
 Topic modeling:
